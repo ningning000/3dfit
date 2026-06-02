@@ -256,12 +256,12 @@ Free vibration measurements of a cantilever ruler.
 
 | Method | Estimated Frequency (Hz) |
 |----------|----------|
-| 3DFIT | 30.000 |
-| ECT | 30.272 |
-| GPE | 30.364 |
-
----
+| 3DFIT | 30.00 |
+| ECT | 30.49 |
+| GPE | 30.61 |
 <!--
+---
+
 ## Citation
 
 If you find this work useful, please cite:
@@ -274,9 +274,9 @@ If you find this work useful, please cite:
   year={2026}
 }
 ```
--->
----
 
+---
+-->
 ## License
 
 This project is released under the MIT License.
