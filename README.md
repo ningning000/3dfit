@@ -1,6 +1,6 @@
 # 3DFIT
 
-Event-Based Vibration Measurement via 3D Spatiotemporal Surface Fitting
+3DFIT: Three-Dimensional Spatiotemporal Fitting for Event-Based Vibration Measurement
 
 ## Overview
 
