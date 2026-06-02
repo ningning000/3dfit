@@ -1,0 +1,18 @@
+frequency: 200
+
+amplitude: 10
+
+phase: 0
+
+rod:
+  length: 400
+  width: 10
+
+simulation:
+  total_time: 0.1
+  time_resolution: 2e-6
+
+noise:
+  noise_level: 0.05
+  background_ratio: 0.15
+  temporal_jitter: 5e-6

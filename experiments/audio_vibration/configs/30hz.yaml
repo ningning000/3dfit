@@ -1,0 +1,15 @@
+dataset: data/30hz-20.hdf5
+
+roi:
+  x_min: 100
+  x_max: 600
+
+  y_min: 420
+  y_max: 460
+
+time:
+  start: 0.0
+  end: 1.0
+
+ground_truth:
+  frequency: 30
