@@ -261,7 +261,7 @@ Free vibration measurements of a cantilever ruler.
 | GPE | 30.364 |
 
 ---
-
+<!--
 ## Citation
 
 If you find this work useful, please cite:
@@ -274,7 +274,7 @@ If you find this work useful, please cite:
   year={2026}
 }
 ```
-
+-->
 ---
 
 ## License
