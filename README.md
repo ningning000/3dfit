@@ -171,7 +171,7 @@ ground_truth:
 The proposed method models the event cloud as an implicit spatiotemporal surface:
 
 ```math
-Ax + By + C\sin(2\pi ft + \phi) + D = 0
+A x + B y + C e^{-\lambda t} \sin(2\pi f t + \phi) + D = 0
 ```
 
 The vibration frequency is estimated through nonlinear optimization.
